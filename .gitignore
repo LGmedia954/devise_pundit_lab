@@ -43,3 +43,7 @@ jspm_packages
 /log/*
 !/log/.keep
 /tmp
+
+#Ignore .crt and .key files
+/devise_lab_localhost.crt
+/devise_lab_localhost.key
